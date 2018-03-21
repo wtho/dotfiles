@@ -1,0 +1,18 @@
+! -----------------------
+! ROFI Color theme
+! -----------------------
+rofi.color-enabled: true
+rofi.color-window: argb:C0000000, argb:00002b36, argb:00000000
+rofi.color-normal: argb:00fdf6e3, #f3f4f5, argb:00eee8d5, argb:22f3f4f5, #f3f4f5
+rofi.color-active: argb:00fdf6e3, #268bd2, argb:00eee8d5, #268bd2, #f3f4f5
+rofi.color-urgent: argb:00fdf6e3, #dc322f, argb:00eee8d5, #dc322f, #f3f4f5
+!rofi.opacity: 90
+rofi.font: Aller bold 14
+rofi.case-sensitive: false
+rofi.lines: 12
+! --- element height
+rofi.eh: 1
+rofi.padding: 180
+! --- border width in pixel
+rofi.bw: 0
+rofi.fullscreen: true
